@@ -1,0 +1,108 @@
+@media screen and (max-width: 1200px) {
+    .hero__wrappers {
+        width: 400px;
+        height: 400px;
+    }
+    .container {
+        width: 1050px;
+        margin: 0 auto;  
+    }
+    .hero__select {
+        width: 50%;
+    }
+    .guides {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+    .featured__cards {
+            margin-top: 10px;
+            margin-bottom: 10px;
+            display: flex;
+        flex-direction: column;
+        align-items: center;
+        
+    }
+    .trending__cards {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .trending__two {
+        margin-top: 130px;
+        margin-bottom: 130px;
+    }
+    .trending__three {
+        margin-bottom: 130px;
+    }
+    .testimonials__title {
+        margin-top: 25px;
+    }
+    .testimonials {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+    .featuredcard-one {
+        margin-bottom: 10px;
+    }
+    .trending__wrapper {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .featuredcard-three {
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    .footer__wrapper {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .section {
+        
+        
+    }
+    body {
+        width: 90%;
+        
+    }
+
+
+    h1 {
+        font-size: 50px;
+        width: auto;
+        display: flex;
+        justify-content: center !important;
+    }
+
+}
+@media screen and (max-width: 1110px) {
+
+}@media screen and (max-width: 1110px) {
+
+}@media screen and (max-width: 1110px) {
+
+}@media screen and (max-width: 1110px) {
+
+}@media screen and (max-width: 1110px) {
+
+}@media screen and (max-width: 1110px) {
+
+}@media screen and (max-width: 1110px) {
+
+}@media screen and (max-width: 1110px) {
+
+}@media screen and (max-width: 1110px) {
+
+}@media screen and (max-width: 1110px) {
+
+}@media screen and (max-width: 1110px) {
+
+}@media screen and (max-width: 1110px) {
+
+}@media screen and (max-width: 1110px) {
+
+}@media screen and (max-width: 1110px) {
+
+}
